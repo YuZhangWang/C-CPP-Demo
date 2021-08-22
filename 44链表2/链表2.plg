@@ -1,0 +1,30 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 链表2 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\豫章望\AppData\Local\Temp\RSP5346.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/链表2.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\VC\44链表2\链表2.cpp"
+]
+Creating command line "cl.exe @"C:\Users\豫章望\AppData\Local\Temp\RSP5346.tmp"" 
+<h3>Output Window</h3>
+Compiling...
+链表2.cpp
+D:\VC\44链表2\链表2.cpp(206) : error C2440: 'return' : cannot convert from 'struct lnode *' to 'struct lnode linklist::*'
+        There is no context in which this conversion is possible
+D:\VC\44链表2\链表2.cpp(215) : error C2440: 'return' : cannot convert from 'struct lnode *' to 'struct lnode linklist::*'
+        There is no context in which this conversion is possible
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+链表2.obj - 2 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
