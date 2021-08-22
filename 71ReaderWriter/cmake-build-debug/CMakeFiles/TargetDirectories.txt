@@ -1,0 +1,3 @@
+D:/Code/C&C++/71ReaderWriter/cmake-build-debug/CMakeFiles/71ReaderWriter.dir
+D:/Code/C&C++/71ReaderWriter/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Code/C&C++/71ReaderWriter/cmake-build-debug/CMakeFiles/rebuild_cache.dir

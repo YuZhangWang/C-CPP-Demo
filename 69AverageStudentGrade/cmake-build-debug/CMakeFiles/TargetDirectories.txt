@@ -1,0 +1,3 @@
+D:/Code/C&C++/69AverageStudentGrade/cmake-build-debug/CMakeFiles/70Test.dir
+D:/Code/C&C++/69AverageStudentGrade/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Code/C&C++/69AverageStudentGrade/cmake-build-debug/CMakeFiles/rebuild_cache.dir

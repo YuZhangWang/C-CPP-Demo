@@ -1,0 +1,3 @@
+D:/Code/C&C++/70ProductionConsumption/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Code/C&C++/70ProductionConsumption/cmake-build-debug/CMakeFiles/70ProductionConsumption.dir
+D:/Code/C&C++/70ProductionConsumption/cmake-build-debug/CMakeFiles/rebuild_cache.dir

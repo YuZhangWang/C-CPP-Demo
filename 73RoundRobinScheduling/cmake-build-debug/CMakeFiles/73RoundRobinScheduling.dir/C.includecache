@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Code/C&C++/73RoundRobinScheduling/main.c
+stdlib.h
+-
+stdio.h
+D:/Code/C&C++/73RoundRobinScheduling/stdio.h
+stdlib.h
+-
+stdio.h
+D:/Code/C&C++/73RoundRobinScheduling/stdio.h
+

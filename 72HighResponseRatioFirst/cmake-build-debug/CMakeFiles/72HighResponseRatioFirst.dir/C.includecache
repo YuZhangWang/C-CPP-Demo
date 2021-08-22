@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Code/C&C++/72HighResponseRatioFirst/main.c
+string.h
+D:/Code/C&C++/72HighResponseRatioFirst/string.h
+stdio.h
+-
+

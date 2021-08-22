@@ -1,0 +1,3 @@
+D:/Code/C&C++/76PageReplacement/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Code/C&C++/76PageReplacement/cmake-build-debug/CMakeFiles/76PageReplacement.dir
+D:/Code/C&C++/76PageReplacement/cmake-build-debug/CMakeFiles/edit_cache.dir

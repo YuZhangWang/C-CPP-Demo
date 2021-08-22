@@ -1,0 +1,9 @@
+"C:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\Code\C&C++\78DataStructure
+    -- src/01Test.cpp will be compiled to bin/01Test
+    -- src/02sizilianzhu.cpp will be compiled to bin/02sizilianzhu
+    -- src/03schoolguide.cpp will be compiled to bin/03schoolguide
+    -- src/04studentinfomanage.cpp will be compiled to bin/04studentinfomanage
+    -- src/05.cpp will be compiled to bin/05
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Code/C&C++/78DataStructure/cmake-build-debug
