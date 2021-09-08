@@ -1,8 +1,8 @@
-"C:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\Code\C&C++\78DataStructure
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" D:\Code\C&C++\78DataStructure
     -- src/01Test.cpp will be compiled to bin/01Test
-    -- src/02sizilianzhu.cpp will be compiled to bin/02sizilianzhu
-    -- src/03schoolguide.cpp will be compiled to bin/03schoolguide
-    -- src/04studentinfomanage.cpp will be compiled to bin/04studentinfomanage
+    -- src/02SiZiLianZhu.cpp will be compiled to bin/02SiZiLianZhu
+    -- src/03SchoolGuide.cpp will be compiled to bin/03SchoolGuide
+    -- src/04StudentInformationManage.cpp will be compiled to bin/04StudentInformationManage
     -- src/05.cpp will be compiled to bin/05
 -- Configuring done
 -- Generating done

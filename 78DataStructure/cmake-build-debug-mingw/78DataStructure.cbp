@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="78DataStructure"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="01Test">
+				<Option output="D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/01Test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 01Test"/>
+					<CompileFile command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="01Test/fast">
+				<Option output="D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/01Test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 01Test/fast"/>
+					<CompileFile command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="04studentinfomanage">
+				<Option output="D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/04studentinfomanage.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 04studentinfomanage"/>
+					<CompileFile command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="04studentinfomanage/fast">
+				<Option output="D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/04studentinfomanage.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 04studentinfomanage/fast"/>
+					<CompileFile command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="02sizilianzhu">
+				<Option output="D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/02sizilianzhu.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 02sizilianzhu"/>
+					<CompileFile command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="02sizilianzhu/fast">
+				<Option output="D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/02sizilianzhu.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 02sizilianzhu/fast"/>
+					<CompileFile command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="03schoolguide">
+				<Option output="D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/03schoolguide.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 03schoolguide"/>
+					<CompileFile command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="03schoolguide/fast">
+				<Option output="D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/03schoolguide.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 03schoolguide/fast"/>
+					<CompileFile command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="05">
+				<Option output="D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/05.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 05"/>
+					<CompileFile command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="05/fast">
+				<Option output="D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/05.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/CodeEnvironment/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 05/fast"/>
+					<CompileFile command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CodeEnvironment/MinGW/bin/mingw32-make.exe -f &quot;D:/Code/C&amp;C++/78DataStructure/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Code/C&amp;C++/78DataStructure/01Test.cpp">
+			<Option target="01Test"/>
+		</Unit>
+		<Unit filename="D:/Code/C&amp;C++/78DataStructure/02sizilianzhu.cpp">
+			<Option target="02sizilianzhu"/>
+		</Unit>
+		<Unit filename="D:/Code/C&amp;C++/78DataStructure/03schoolguide.cpp">
+			<Option target="03schoolguide"/>
+		</Unit>
+		<Unit filename="D:/Code/C&amp;C++/78DataStructure/04studentinfomanage.cpp">
+			<Option target="04studentinfomanage"/>
+		</Unit>
+		<Unit filename="D:/Code/C&amp;C++/78DataStructure/05.cpp">
+			<Option target="05"/>
+		</Unit>
+		<Unit filename="D:/Code/C&amp;C++/78DataStructure/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,4 +1,9 @@
-//Created by YuZhangWang
+/***********************************
+ * @author: YuZhangWang
+ * @date: 2021/9/3 16:42
+ * @link: https://www.yuzhang.wang/
+***********************************/
+
 #include <iostream>
 #include <string>
 
@@ -102,12 +107,10 @@ void CGobang::PlayTurn(void) //×ß1²½Æå
         if (nRow > nSize || nCol > nSize) //ÅÐ¶Ï×ø±êÔ½½ç
         {
             cout << "ÊäÈëµÄ×ø±êÔ½½ç£¬xÓëyµÄ·¶Î§Ó¦Ð¡ÓÚµÈÓÚ" << nSize << ",ÇëÖØÐÂÊäÈë\n";
-        }
-        else if (achBoard[nRow - 1][nCol - 1] != ' ') //ÅÐ¶Ï×ø±êºÏÀí
+        } else if (achBoard[nRow - 1][nCol - 1] != ' ') //ÅÐ¶Ï×ø±êºÏÀí
         {
             cout << "ÆåÅÌ(" << nRow << " £¬" << nCol << ")´¦ÒÑÓÐÆå×Ó£¬ÇëÖØÐÂÊäÈë\n";
-        }
-        else {
+        } else {
             achBoard[nRow - 1][nCol - 1] = chSort; //ÔÚ×ø±ê´¦·ÅÉÏÆå×Ó
             break; //ÍË³öÑ­»·
         }
@@ -156,14 +159,12 @@ int JudgePlay(CGobang &SideX, CGobang &SideO) //Ã¿ÏÂ1²½Òª½øÐÐÊäÓ®µÄÅÐ¶Ï£¬ÓÐ½á¹ûÔ
         SideX.Win();
         SideO.Lose();
         return 1;
-    }
-    else if (SideO.Judge()) //O·½»ñÊ¤
+    } else if (SideO.Judge()) //O·½»ñÊ¤
     {
         SideO.Win();
         SideX.Lose();
         return 1;
-    }
-    else
+    } else
         return 0;
 }
 

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\03schoolguide.dir/objects.a
+D:\CodeEnvironment\MinGW\bin\ar.exe cr CMakeFiles\03schoolguide.dir/objects.a @CMakeFiles\03schoolguide.dir\objects1.rsp
+D:\CodeEnvironment\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\03schoolguide.dir/objects.a -Wl,--no-whole-archive -o 03schoolguide.exe -Wl,--out-implib,lib03schoolguide.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\03schoolguide.dir\linklibs.rsp

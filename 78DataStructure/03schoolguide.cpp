@@ -1,3 +1,9 @@
+/***********************************
+ * @author: YuZhangWang
+ * @date: 2021/9/3 16:42
+ * @link: https://www.yuzhang.wang/
+***********************************/
+
 #include <iostream>
 #include <string.h>
 #include <stdlib.h>
@@ -77,8 +83,7 @@ void AdjacencyList::CreateALGraph(GraphAdjList *G) {
                 if (_distance[i][j] != 0) {
                     temp = _distance[i][j];
                     _distance[j][i] = _distance[i][j];
-                }
-                else {
+                } else {
                     temp = _distance[j][i];
                     _distance[i][j] = _distance[j][i];
                 }
