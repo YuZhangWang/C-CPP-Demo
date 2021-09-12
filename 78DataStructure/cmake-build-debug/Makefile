@@ -116,6 +116,32 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named 07BinarySortTreeOperation
+
+# Build rule for target.
+07BinarySortTreeOperation: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 07BinarySortTreeOperation
+.PHONY : 07BinarySortTreeOperation
+
+# fast build rule for target.
+07BinarySortTreeOperation/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\07BinarySortTreeOperation.dir\build.make CMakeFiles/07BinarySortTreeOperation.dir/build
+.PHONY : 07BinarySortTreeOperation/fast
+
+#=============================================================================
+# Target rules for targets named 06ParenthesisMatching
+
+# Build rule for target.
+06ParenthesisMatching: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 06ParenthesisMatching
+.PHONY : 06ParenthesisMatching
+
+# fast build rule for target.
+06ParenthesisMatching/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\06ParenthesisMatching.dir\build.make CMakeFiles/06ParenthesisMatching.dir/build
+.PHONY : 06ParenthesisMatching/fast
+
+#=============================================================================
 # Target rules for targets named 01Test
 
 # Build rule for target.
@@ -127,6 +153,19 @@ depend:
 01Test/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\01Test.dir\build.make CMakeFiles/01Test.dir/build
 .PHONY : 01Test/fast
+
+#=============================================================================
+# Target rules for targets named 05BinaryConversion
+
+# Build rule for target.
+05BinaryConversion: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 05BinaryConversion
+.PHONY : 05BinaryConversion
+
+# fast build rule for target.
+05BinaryConversion/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\05BinaryConversion.dir\build.make CMakeFiles/05BinaryConversion.dir/build
+.PHONY : 05BinaryConversion/fast
 
 #=============================================================================
 # Target rules for targets named 02SiZiLianZhu
@@ -166,19 +205,6 @@ depend:
 04StudentInformationManage/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\04StudentInformationManage.dir\build.make CMakeFiles/04StudentInformationManage.dir/build
 .PHONY : 04StudentInformationManage/fast
-
-#=============================================================================
-# Target rules for targets named 05
-
-# Build rule for target.
-05: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 05
-.PHONY : 05
-
-# fast build rule for target.
-05/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\05.dir\build.make CMakeFiles/05.dir/build
-.PHONY : 05/fast
 
 01Test.obj: 01Test.cpp.obj
 .PHONY : 01Test.obj
@@ -276,29 +302,77 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\04StudentInformationManage.dir\build.make CMakeFiles/04StudentInformationManage.dir/04StudentInformationManage.cpp.s
 .PHONY : 04StudentInformationManage.cpp.s
 
-05.obj: 05.cpp.obj
-.PHONY : 05.obj
+05BinaryConversion.obj: 05BinaryConversion.cpp.obj
+.PHONY : 05BinaryConversion.obj
 
 # target to build an object file
-05.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\05.dir\build.make CMakeFiles/05.dir/05.cpp.obj
-.PHONY : 05.cpp.obj
+05BinaryConversion.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\05BinaryConversion.dir\build.make CMakeFiles/05BinaryConversion.dir/05BinaryConversion.cpp.obj
+.PHONY : 05BinaryConversion.cpp.obj
 
-05.i: 05.cpp.i
-.PHONY : 05.i
+05BinaryConversion.i: 05BinaryConversion.cpp.i
+.PHONY : 05BinaryConversion.i
 
 # target to preprocess a source file
-05.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\05.dir\build.make CMakeFiles/05.dir/05.cpp.i
-.PHONY : 05.cpp.i
+05BinaryConversion.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\05BinaryConversion.dir\build.make CMakeFiles/05BinaryConversion.dir/05BinaryConversion.cpp.i
+.PHONY : 05BinaryConversion.cpp.i
 
-05.s: 05.cpp.s
-.PHONY : 05.s
+05BinaryConversion.s: 05BinaryConversion.cpp.s
+.PHONY : 05BinaryConversion.s
 
 # target to generate assembly for a file
-05.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\05.dir\build.make CMakeFiles/05.dir/05.cpp.s
-.PHONY : 05.cpp.s
+05BinaryConversion.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\05BinaryConversion.dir\build.make CMakeFiles/05BinaryConversion.dir/05BinaryConversion.cpp.s
+.PHONY : 05BinaryConversion.cpp.s
+
+06ParenthesisMatching.obj: 06ParenthesisMatching.cpp.obj
+.PHONY : 06ParenthesisMatching.obj
+
+# target to build an object file
+06ParenthesisMatching.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\06ParenthesisMatching.dir\build.make CMakeFiles/06ParenthesisMatching.dir/06ParenthesisMatching.cpp.obj
+.PHONY : 06ParenthesisMatching.cpp.obj
+
+06ParenthesisMatching.i: 06ParenthesisMatching.cpp.i
+.PHONY : 06ParenthesisMatching.i
+
+# target to preprocess a source file
+06ParenthesisMatching.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\06ParenthesisMatching.dir\build.make CMakeFiles/06ParenthesisMatching.dir/06ParenthesisMatching.cpp.i
+.PHONY : 06ParenthesisMatching.cpp.i
+
+06ParenthesisMatching.s: 06ParenthesisMatching.cpp.s
+.PHONY : 06ParenthesisMatching.s
+
+# target to generate assembly for a file
+06ParenthesisMatching.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\06ParenthesisMatching.dir\build.make CMakeFiles/06ParenthesisMatching.dir/06ParenthesisMatching.cpp.s
+.PHONY : 06ParenthesisMatching.cpp.s
+
+07BinarySortTreeOperation.obj: 07BinarySortTreeOperation.cpp.obj
+.PHONY : 07BinarySortTreeOperation.obj
+
+# target to build an object file
+07BinarySortTreeOperation.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\07BinarySortTreeOperation.dir\build.make CMakeFiles/07BinarySortTreeOperation.dir/07BinarySortTreeOperation.cpp.obj
+.PHONY : 07BinarySortTreeOperation.cpp.obj
+
+07BinarySortTreeOperation.i: 07BinarySortTreeOperation.cpp.i
+.PHONY : 07BinarySortTreeOperation.i
+
+# target to preprocess a source file
+07BinarySortTreeOperation.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\07BinarySortTreeOperation.dir\build.make CMakeFiles/07BinarySortTreeOperation.dir/07BinarySortTreeOperation.cpp.i
+.PHONY : 07BinarySortTreeOperation.cpp.i
+
+07BinarySortTreeOperation.s: 07BinarySortTreeOperation.cpp.s
+.PHONY : 07BinarySortTreeOperation.s
+
+# target to generate assembly for a file
+07BinarySortTreeOperation.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\07BinarySortTreeOperation.dir\build.make CMakeFiles/07BinarySortTreeOperation.dir/07BinarySortTreeOperation.cpp.s
+.PHONY : 07BinarySortTreeOperation.cpp.s
 
 # Help Target
 help:
@@ -312,7 +386,9 @@ help:
 	@echo ... 02SiZiLianZhu
 	@echo ... 03SchoolGuide
 	@echo ... 04StudentInformationManage
-	@echo ... 05
+	@echo ... 05BinaryConversion
+	@echo ... 06ParenthesisMatching
+	@echo ... 07BinarySortTreeOperation
 	@echo ... 01Test.obj
 	@echo ... 01Test.i
 	@echo ... 01Test.s
@@ -325,9 +401,15 @@ help:
 	@echo ... 04StudentInformationManage.obj
 	@echo ... 04StudentInformationManage.i
 	@echo ... 04StudentInformationManage.s
-	@echo ... 05.obj
-	@echo ... 05.i
-	@echo ... 05.s
+	@echo ... 05BinaryConversion.obj
+	@echo ... 05BinaryConversion.i
+	@echo ... 05BinaryConversion.s
+	@echo ... 06ParenthesisMatching.obj
+	@echo ... 06ParenthesisMatching.i
+	@echo ... 06ParenthesisMatching.s
+	@echo ... 07BinarySortTreeOperation.obj
+	@echo ... 07BinarySortTreeOperation.i
+	@echo ... 07BinarySortTreeOperation.s
 .PHONY : help
 
 

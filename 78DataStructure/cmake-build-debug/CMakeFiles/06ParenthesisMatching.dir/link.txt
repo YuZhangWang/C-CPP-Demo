@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\06ParenthesisMatching.dir/objects.a
+D:\CodeEnvironment\MinGW\bin\ar.exe cr CMakeFiles\06ParenthesisMatching.dir/objects.a @CMakeFiles\06ParenthesisMatching.dir\objects1.rsp
+D:\CodeEnvironment\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\06ParenthesisMatching.dir/objects.a -Wl,--no-whole-archive -o 06ParenthesisMatching.exe -Wl,--out-implib,lib06ParenthesisMatching.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\06ParenthesisMatching.dir\linklibs.rsp

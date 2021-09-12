@@ -1,7 +1,9 @@
+D:/Code/C&C++/78DataStructure/cmake-build-debug/CMakeFiles/07BinarySortTreeOperation.dir
+D:/Code/C&C++/78DataStructure/cmake-build-debug/CMakeFiles/06ParenthesisMatching.dir
 D:/Code/C&C++/78DataStructure/cmake-build-debug/CMakeFiles/01Test.dir
+D:/Code/C&C++/78DataStructure/cmake-build-debug/CMakeFiles/05BinaryConversion.dir
 D:/Code/C&C++/78DataStructure/cmake-build-debug/CMakeFiles/02SiZiLianZhu.dir
 D:/Code/C&C++/78DataStructure/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/Code/C&C++/78DataStructure/cmake-build-debug/CMakeFiles/03SchoolGuide.dir
 D:/Code/C&C++/78DataStructure/cmake-build-debug/CMakeFiles/04StudentInformationManage.dir
-D:/Code/C&C++/78DataStructure/cmake-build-debug/CMakeFiles/05.dir
 D:/Code/C&C++/78DataStructure/cmake-build-debug/CMakeFiles/rebuild_cache.dir

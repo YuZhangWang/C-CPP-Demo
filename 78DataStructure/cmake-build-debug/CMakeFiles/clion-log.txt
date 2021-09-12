@@ -3,7 +3,9 @@
     -- src/02SiZiLianZhu.cpp will be compiled to bin/02SiZiLianZhu
     -- src/03SchoolGuide.cpp will be compiled to bin/03SchoolGuide
     -- src/04StudentInformationManage.cpp will be compiled to bin/04StudentInformationManage
-    -- src/05.cpp will be compiled to bin/05
+    -- src/05BinaryConversion.cpp will be compiled to bin/05BinaryConversion
+    -- src/06ParenthesisMatching.cpp will be compiled to bin/06ParenthesisMatching
+    -- src/07BinarySortTreeOperation.cpp will be compiled to bin/07BinarySortTreeOperation
 -- Configuring done
 -- Generating done
 -- Build files have been written to: D:/Code/C&C++/78DataStructure/cmake-build-debug

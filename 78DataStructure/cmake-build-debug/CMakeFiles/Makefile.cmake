@@ -51,9 +51,11 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
+  "CMakeFiles/07BinarySortTreeOperation.dir/DependInfo.cmake"
+  "CMakeFiles/06ParenthesisMatching.dir/DependInfo.cmake"
   "CMakeFiles/01Test.dir/DependInfo.cmake"
+  "CMakeFiles/05BinaryConversion.dir/DependInfo.cmake"
   "CMakeFiles/02SiZiLianZhu.dir/DependInfo.cmake"
   "CMakeFiles/03SchoolGuide.dir/DependInfo.cmake"
   "CMakeFiles/04StudentInformationManage.dir/DependInfo.cmake"
-  "CMakeFiles/05.dir/DependInfo.cmake"
   )

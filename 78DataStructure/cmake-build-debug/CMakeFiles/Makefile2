@@ -62,11 +62,13 @@ CMAKE_BINARY_DIR = "D:\Code\C&C++\78DataStructure\cmake-build-debug"
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
+all: CMakeFiles/07BinarySortTreeOperation.dir/all
+all: CMakeFiles/06ParenthesisMatching.dir/all
 all: CMakeFiles/01Test.dir/all
+all: CMakeFiles/05BinaryConversion.dir/all
 all: CMakeFiles/02SiZiLianZhu.dir/all
 all: CMakeFiles/03SchoolGuide.dir/all
 all: CMakeFiles/04StudentInformationManage.dir/all
-all: CMakeFiles/05.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -74,12 +76,66 @@ preinstall:
 .PHONY : preinstall
 
 # The main recursive "clean" target.
+clean: CMakeFiles/07BinarySortTreeOperation.dir/clean
+clean: CMakeFiles/06ParenthesisMatching.dir/clean
 clean: CMakeFiles/01Test.dir/clean
+clean: CMakeFiles/05BinaryConversion.dir/clean
 clean: CMakeFiles/02SiZiLianZhu.dir/clean
 clean: CMakeFiles/03SchoolGuide.dir/clean
 clean: CMakeFiles/04StudentInformationManage.dir/clean
-clean: CMakeFiles/05.dir/clean
 .PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/07BinarySortTreeOperation.dir
+
+# All Build rule for target.
+CMakeFiles/07BinarySortTreeOperation.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\07BinarySortTreeOperation.dir\build.make CMakeFiles/07BinarySortTreeOperation.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\07BinarySortTreeOperation.dir\build.make CMakeFiles/07BinarySortTreeOperation.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\Code\C&C++\78DataStructure\cmake-build-debug\CMakeFiles" --progress-num=13,14 "Built target 07BinarySortTreeOperation"
+.PHONY : CMakeFiles/07BinarySortTreeOperation.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/07BinarySortTreeOperation.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Code\C&C++\78DataStructure\cmake-build-debug\CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/07BinarySortTreeOperation.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Code\C&C++\78DataStructure\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/07BinarySortTreeOperation.dir/rule
+
+# Convenience name for target.
+07BinarySortTreeOperation: CMakeFiles/07BinarySortTreeOperation.dir/rule
+.PHONY : 07BinarySortTreeOperation
+
+# clean rule for target.
+CMakeFiles/07BinarySortTreeOperation.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\07BinarySortTreeOperation.dir\build.make CMakeFiles/07BinarySortTreeOperation.dir/clean
+.PHONY : CMakeFiles/07BinarySortTreeOperation.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/06ParenthesisMatching.dir
+
+# All Build rule for target.
+CMakeFiles/06ParenthesisMatching.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\06ParenthesisMatching.dir\build.make CMakeFiles/06ParenthesisMatching.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\06ParenthesisMatching.dir\build.make CMakeFiles/06ParenthesisMatching.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\Code\C&C++\78DataStructure\cmake-build-debug\CMakeFiles" --progress-num=11,12 "Built target 06ParenthesisMatching"
+.PHONY : CMakeFiles/06ParenthesisMatching.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/06ParenthesisMatching.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Code\C&C++\78DataStructure\cmake-build-debug\CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/06ParenthesisMatching.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Code\C&C++\78DataStructure\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/06ParenthesisMatching.dir/rule
+
+# Convenience name for target.
+06ParenthesisMatching: CMakeFiles/06ParenthesisMatching.dir/rule
+.PHONY : 06ParenthesisMatching
+
+# clean rule for target.
+CMakeFiles/06ParenthesisMatching.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\06ParenthesisMatching.dir\build.make CMakeFiles/06ParenthesisMatching.dir/clean
+.PHONY : CMakeFiles/06ParenthesisMatching.dir/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/01Test.dir
@@ -106,6 +162,32 @@ CMakeFiles/01Test.dir/rule: cmake_check_build_system
 CMakeFiles/01Test.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\01Test.dir\build.make CMakeFiles/01Test.dir/clean
 .PHONY : CMakeFiles/01Test.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/05BinaryConversion.dir
+
+# All Build rule for target.
+CMakeFiles/05BinaryConversion.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\05BinaryConversion.dir\build.make CMakeFiles/05BinaryConversion.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\05BinaryConversion.dir\build.make CMakeFiles/05BinaryConversion.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\Code\C&C++\78DataStructure\cmake-build-debug\CMakeFiles" --progress-num=9,10 "Built target 05BinaryConversion"
+.PHONY : CMakeFiles/05BinaryConversion.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/05BinaryConversion.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Code\C&C++\78DataStructure\cmake-build-debug\CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/05BinaryConversion.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Code\C&C++\78DataStructure\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/05BinaryConversion.dir/rule
+
+# Convenience name for target.
+05BinaryConversion: CMakeFiles/05BinaryConversion.dir/rule
+.PHONY : 05BinaryConversion
+
+# clean rule for target.
+CMakeFiles/05BinaryConversion.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\05BinaryConversion.dir\build.make CMakeFiles/05BinaryConversion.dir/clean
+.PHONY : CMakeFiles/05BinaryConversion.dir/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/02SiZiLianZhu.dir
@@ -184,32 +266,6 @@ CMakeFiles/04StudentInformationManage.dir/rule: cmake_check_build_system
 CMakeFiles/04StudentInformationManage.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\04StudentInformationManage.dir\build.make CMakeFiles/04StudentInformationManage.dir/clean
 .PHONY : CMakeFiles/04StudentInformationManage.dir/clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/05.dir
-
-# All Build rule for target.
-CMakeFiles/05.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\05.dir\build.make CMakeFiles/05.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\05.dir\build.make CMakeFiles/05.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\Code\C&C++\78DataStructure\cmake-build-debug\CMakeFiles" --progress-num=9,10 "Built target 05"
-.PHONY : CMakeFiles/05.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/05.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Code\C&C++\78DataStructure\cmake-build-debug\CMakeFiles" 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/05.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Code\C&C++\78DataStructure\cmake-build-debug\CMakeFiles" 0
-.PHONY : CMakeFiles/05.dir/rule
-
-# Convenience name for target.
-05: CMakeFiles/05.dir/rule
-.PHONY : 05
-
-# clean rule for target.
-CMakeFiles/05.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\05.dir\build.make CMakeFiles/05.dir/clean
-.PHONY : CMakeFiles/05.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.
