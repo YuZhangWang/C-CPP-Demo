@@ -6,6 +6,7 @@
     -- src/05BinaryConversion.cpp will be compiled to bin/05BinaryConversion
     -- src/06ParenthesisMatching.cpp will be compiled to bin/06ParenthesisMatching
     -- src/07BinarySortTreeOperation.cpp will be compiled to bin/07BinarySortTreeOperation
+    -- src/08InsertTest.cpp will be compiled to bin/08InsertTest
 -- Configuring done
 -- Generating done
 -- Build files have been written to: D:/Code/C&C++/78DataStructure/cmake-build-debug

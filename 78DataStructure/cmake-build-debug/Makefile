@@ -206,6 +206,19 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\04StudentInformationManage.dir\build.make CMakeFiles/04StudentInformationManage.dir/build
 .PHONY : 04StudentInformationManage/fast
 
+#=============================================================================
+# Target rules for targets named 08InsertTest
+
+# Build rule for target.
+08InsertTest: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 08InsertTest
+.PHONY : 08InsertTest
+
+# fast build rule for target.
+08InsertTest/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\08InsertTest.dir\build.make CMakeFiles/08InsertTest.dir/build
+.PHONY : 08InsertTest/fast
+
 01Test.obj: 01Test.cpp.obj
 .PHONY : 01Test.obj
 
@@ -374,6 +387,51 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\07BinarySortTreeOperation.dir\build.make CMakeFiles/07BinarySortTreeOperation.dir/07BinarySortTreeOperation.cpp.s
 .PHONY : 07BinarySortTreeOperation.cpp.s
 
+08InsertTest.obj: 08InsertTest.c.obj
+.PHONY : 08InsertTest.obj
+
+# target to build an object file
+08InsertTest.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\07BinarySortTreeOperation.dir\build.make CMakeFiles/07BinarySortTreeOperation.dir/08InsertTest.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\06ParenthesisMatching.dir\build.make CMakeFiles/06ParenthesisMatching.dir/08InsertTest.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\01Test.dir\build.make CMakeFiles/01Test.dir/08InsertTest.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\05BinaryConversion.dir\build.make CMakeFiles/05BinaryConversion.dir/08InsertTest.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\02SiZiLianZhu.dir\build.make CMakeFiles/02SiZiLianZhu.dir/08InsertTest.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\03SchoolGuide.dir\build.make CMakeFiles/03SchoolGuide.dir/08InsertTest.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\04StudentInformationManage.dir\build.make CMakeFiles/04StudentInformationManage.dir/08InsertTest.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\08InsertTest.dir\build.make CMakeFiles/08InsertTest.dir/08InsertTest.c.obj
+.PHONY : 08InsertTest.c.obj
+
+08InsertTest.i: 08InsertTest.c.i
+.PHONY : 08InsertTest.i
+
+# target to preprocess a source file
+08InsertTest.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\07BinarySortTreeOperation.dir\build.make CMakeFiles/07BinarySortTreeOperation.dir/08InsertTest.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\06ParenthesisMatching.dir\build.make CMakeFiles/06ParenthesisMatching.dir/08InsertTest.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\01Test.dir\build.make CMakeFiles/01Test.dir/08InsertTest.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\05BinaryConversion.dir\build.make CMakeFiles/05BinaryConversion.dir/08InsertTest.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\02SiZiLianZhu.dir\build.make CMakeFiles/02SiZiLianZhu.dir/08InsertTest.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\03SchoolGuide.dir\build.make CMakeFiles/03SchoolGuide.dir/08InsertTest.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\04StudentInformationManage.dir\build.make CMakeFiles/04StudentInformationManage.dir/08InsertTest.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\08InsertTest.dir\build.make CMakeFiles/08InsertTest.dir/08InsertTest.c.i
+.PHONY : 08InsertTest.c.i
+
+08InsertTest.s: 08InsertTest.c.s
+.PHONY : 08InsertTest.s
+
+# target to generate assembly for a file
+08InsertTest.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\07BinarySortTreeOperation.dir\build.make CMakeFiles/07BinarySortTreeOperation.dir/08InsertTest.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\06ParenthesisMatching.dir\build.make CMakeFiles/06ParenthesisMatching.dir/08InsertTest.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\01Test.dir\build.make CMakeFiles/01Test.dir/08InsertTest.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\05BinaryConversion.dir\build.make CMakeFiles/05BinaryConversion.dir/08InsertTest.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\02SiZiLianZhu.dir\build.make CMakeFiles/02SiZiLianZhu.dir/08InsertTest.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\03SchoolGuide.dir\build.make CMakeFiles/03SchoolGuide.dir/08InsertTest.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\04StudentInformationManage.dir\build.make CMakeFiles/04StudentInformationManage.dir/08InsertTest.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\08InsertTest.dir\build.make CMakeFiles/08InsertTest.dir/08InsertTest.c.s
+.PHONY : 08InsertTest.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -389,6 +447,7 @@ help:
 	@echo ... 05BinaryConversion
 	@echo ... 06ParenthesisMatching
 	@echo ... 07BinarySortTreeOperation
+	@echo ... 08InsertTest
 	@echo ... 01Test.obj
 	@echo ... 01Test.i
 	@echo ... 01Test.s
@@ -410,6 +469,9 @@ help:
 	@echo ... 07BinarySortTreeOperation.obj
 	@echo ... 07BinarySortTreeOperation.i
 	@echo ... 07BinarySortTreeOperation.s
+	@echo ... 08InsertTest.obj
+	@echo ... 08InsertTest.i
+	@echo ... 08InsertTest.s
 .PHONY : help
 
 

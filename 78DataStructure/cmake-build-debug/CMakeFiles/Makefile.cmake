@@ -58,4 +58,5 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/02SiZiLianZhu.dir/DependInfo.cmake"
   "CMakeFiles/03SchoolGuide.dir/DependInfo.cmake"
   "CMakeFiles/04StudentInformationManage.dir/DependInfo.cmake"
+  "CMakeFiles/08InsertTest.dir/DependInfo.cmake"
   )
