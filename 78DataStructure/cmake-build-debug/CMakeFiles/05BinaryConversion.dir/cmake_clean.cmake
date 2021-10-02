@@ -4,6 +4,7 @@ file(REMOVE_RECURSE
   "05BinaryConversion.pdb"
   "CMakeFiles/05BinaryConversion.dir/05BinaryConversion.cpp.obj"
   "CMakeFiles/05BinaryConversion.dir/08InsertTest.c.obj"
+  "CMakeFiles/05BinaryConversion.dir/09C++_JSON_Parser_1.cpp.obj"
   "lib05BinaryConversion.dll.a"
 )
 

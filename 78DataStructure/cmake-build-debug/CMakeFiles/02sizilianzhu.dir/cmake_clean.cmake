@@ -4,6 +4,7 @@ file(REMOVE_RECURSE
   "02SiZiLianZhu.pdb"
   "CMakeFiles/02SiZiLianZhu.dir/02SiZiLianZhu.cpp.obj"
   "CMakeFiles/02SiZiLianZhu.dir/08InsertTest.c.obj"
+  "CMakeFiles/02SiZiLianZhu.dir/09C++_JSON_Parser_1.cpp.obj"
   "lib02SiZiLianZhu.dll.a"
 )
 

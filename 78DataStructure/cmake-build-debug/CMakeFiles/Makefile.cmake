@@ -59,4 +59,5 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/03SchoolGuide.dir/DependInfo.cmake"
   "CMakeFiles/04StudentInformationManage.dir/DependInfo.cmake"
   "CMakeFiles/08InsertTest.dir/DependInfo.cmake"
+  "CMakeFiles/09C++_JSON_Parser_1.dir/DependInfo.cmake"
   )

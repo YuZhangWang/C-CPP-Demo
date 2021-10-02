@@ -4,6 +4,7 @@ file(REMOVE_RECURSE
   "01Test.pdb"
   "CMakeFiles/01Test.dir/01Test.cpp.obj"
   "CMakeFiles/01Test.dir/08InsertTest.c.obj"
+  "CMakeFiles/01Test.dir/09C++_JSON_Parser_1.cpp.obj"
   "lib01Test.dll.a"
 )
 

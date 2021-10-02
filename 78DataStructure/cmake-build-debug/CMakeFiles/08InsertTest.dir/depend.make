@@ -3,3 +3,5 @@
 
 CMakeFiles/08InsertTest.dir/08InsertTest.c.obj: \
  ../08InsertTest.c
+CMakeFiles/08InsertTest.dir/09C++_JSON_Parser_1.cpp.obj: \
+ ../09C++_JSON_Parser_1.cpp

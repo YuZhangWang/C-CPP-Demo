@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/Code/C&amp;C++/01HelloClion/main.c">
+		<Unit filename="D:/Code/C&amp;C++/01HelloClion/main.cpp">
 			<Option target="01HelloClion"/>
 		</Unit>
 		<Unit filename="D:/Code/C&amp;C++/01HelloClion/CMakeLists.txt">

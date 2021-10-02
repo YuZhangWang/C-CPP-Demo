@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Code/C&C++/78DataStructure/09C++_JSON_Parser_1.cpp
+iostream
+-
+algorithm
+-
+string
+-
+map
+-
+
