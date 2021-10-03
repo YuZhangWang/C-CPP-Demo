@@ -202,10 +202,6 @@ namespace YuZhangWang {
     }
 };
 
-namespace Parser {
-
-};
-
 int main() {
     using namespace std;
     using namespace YuZhangWang;
