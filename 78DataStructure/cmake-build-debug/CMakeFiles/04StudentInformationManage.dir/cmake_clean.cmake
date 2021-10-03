@@ -3,8 +3,7 @@ file(REMOVE_RECURSE
   "04StudentInformationManage.exe.manifest"
   "04StudentInformationManage.pdb"
   "CMakeFiles/04StudentInformationManage.dir/04StudentInformationManage.cpp.obj"
-  "CMakeFiles/04StudentInformationManage.dir/08InsertTest.c.obj"
-  "CMakeFiles/04StudentInformationManage.dir/09C++_JSON_Parser_1.cpp.obj"
+  "CMakeFiles/04StudentInformationManage.dir/11Insert-a-node-at-any-given-position.c.obj"
   "lib04StudentInformationManage.dll.a"
 )
 

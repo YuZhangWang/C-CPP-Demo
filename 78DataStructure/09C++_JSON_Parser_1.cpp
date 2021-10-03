@@ -205,7 +205,7 @@ namespace YuZhangWang {
 int main() {
     using namespace std;
     using namespace YuZhangWang;
-    auto ts = build_token_stream("{123}[][],:{}\"hey\ng\tgg\"");
+    auto ts = build_token_stream("{}[][],:");
     ts.print();
     return 0;
 }

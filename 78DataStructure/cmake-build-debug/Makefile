@@ -232,6 +232,32 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\09C++_JSON_Parser_1.dir\build.make CMakeFiles/09C++_JSON_Parser_1.dir/build
 .PHONY : 09C++_JSON_Parser_1/fast
 
+#=============================================================================
+# Target rules for targets named 10Inserting-a-node-at-beginning
+
+# Build rule for target.
+10Inserting-a-node-at-beginning: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 10Inserting-a-node-at-beginning
+.PHONY : 10Inserting-a-node-at-beginning
+
+# fast build rule for target.
+10Inserting-a-node-at-beginning/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\10Inserting-a-node-at-beginning.dir\build.make CMakeFiles/10Inserting-a-node-at-beginning.dir/build
+.PHONY : 10Inserting-a-node-at-beginning/fast
+
+#=============================================================================
+# Target rules for targets named 11Insert-a-node-at-any-given-position
+
+# Build rule for target.
+11Insert-a-node-at-any-given-position: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 11Insert-a-node-at-any-given-position
+.PHONY : 11Insert-a-node-at-any-given-position
+
+# fast build rule for target.
+11Insert-a-node-at-any-given-position/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11Insert-a-node-at-any-given-position.dir\build.make CMakeFiles/11Insert-a-node-at-any-given-position.dir/build
+.PHONY : 11Insert-a-node-at-any-given-position/fast
+
 01Test.obj: 01Test.cpp.obj
 .PHONY : 01Test.obj
 
@@ -405,15 +431,7 @@ depend:
 
 # target to build an object file
 08InsertTest.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\07BinarySortTreeOperation.dir\build.make CMakeFiles/07BinarySortTreeOperation.dir/08InsertTest.c.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\06ParenthesisMatching.dir\build.make CMakeFiles/06ParenthesisMatching.dir/08InsertTest.c.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\01Test.dir\build.make CMakeFiles/01Test.dir/08InsertTest.c.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\05BinaryConversion.dir\build.make CMakeFiles/05BinaryConversion.dir/08InsertTest.c.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\02SiZiLianZhu.dir\build.make CMakeFiles/02SiZiLianZhu.dir/08InsertTest.c.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\03SchoolGuide.dir\build.make CMakeFiles/03SchoolGuide.dir/08InsertTest.c.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\04StudentInformationManage.dir\build.make CMakeFiles/04StudentInformationManage.dir/08InsertTest.c.obj
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\08InsertTest.dir\build.make CMakeFiles/08InsertTest.dir/08InsertTest.c.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\09C++_JSON_Parser_1.dir\build.make CMakeFiles/09C++_JSON_Parser_1.dir/08InsertTest.c.obj
 .PHONY : 08InsertTest.c.obj
 
 08InsertTest.i: 08InsertTest.c.i
@@ -421,15 +439,7 @@ depend:
 
 # target to preprocess a source file
 08InsertTest.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\07BinarySortTreeOperation.dir\build.make CMakeFiles/07BinarySortTreeOperation.dir/08InsertTest.c.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\06ParenthesisMatching.dir\build.make CMakeFiles/06ParenthesisMatching.dir/08InsertTest.c.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\01Test.dir\build.make CMakeFiles/01Test.dir/08InsertTest.c.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\05BinaryConversion.dir\build.make CMakeFiles/05BinaryConversion.dir/08InsertTest.c.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\02SiZiLianZhu.dir\build.make CMakeFiles/02SiZiLianZhu.dir/08InsertTest.c.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\03SchoolGuide.dir\build.make CMakeFiles/03SchoolGuide.dir/08InsertTest.c.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\04StudentInformationManage.dir\build.make CMakeFiles/04StudentInformationManage.dir/08InsertTest.c.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\08InsertTest.dir\build.make CMakeFiles/08InsertTest.dir/08InsertTest.c.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\09C++_JSON_Parser_1.dir\build.make CMakeFiles/09C++_JSON_Parser_1.dir/08InsertTest.c.i
 .PHONY : 08InsertTest.c.i
 
 08InsertTest.s: 08InsertTest.c.s
@@ -437,15 +447,7 @@ depend:
 
 # target to generate assembly for a file
 08InsertTest.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\07BinarySortTreeOperation.dir\build.make CMakeFiles/07BinarySortTreeOperation.dir/08InsertTest.c.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\06ParenthesisMatching.dir\build.make CMakeFiles/06ParenthesisMatching.dir/08InsertTest.c.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\01Test.dir\build.make CMakeFiles/01Test.dir/08InsertTest.c.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\05BinaryConversion.dir\build.make CMakeFiles/05BinaryConversion.dir/08InsertTest.c.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\02SiZiLianZhu.dir\build.make CMakeFiles/02SiZiLianZhu.dir/08InsertTest.c.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\03SchoolGuide.dir\build.make CMakeFiles/03SchoolGuide.dir/08InsertTest.c.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\04StudentInformationManage.dir\build.make CMakeFiles/04StudentInformationManage.dir/08InsertTest.c.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\08InsertTest.dir\build.make CMakeFiles/08InsertTest.dir/08InsertTest.c.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\09C++_JSON_Parser_1.dir\build.make CMakeFiles/09C++_JSON_Parser_1.dir/08InsertTest.c.s
 .PHONY : 08InsertTest.c.s
 
 09C++_JSON_Parser_1.obj: 09C++_JSON_Parser_1.cpp.obj
@@ -453,14 +455,6 @@ depend:
 
 # target to build an object file
 09C++_JSON_Parser_1.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\07BinarySortTreeOperation.dir\build.make CMakeFiles/07BinarySortTreeOperation.dir/09C++_JSON_Parser_1.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\06ParenthesisMatching.dir\build.make CMakeFiles/06ParenthesisMatching.dir/09C++_JSON_Parser_1.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\01Test.dir\build.make CMakeFiles/01Test.dir/09C++_JSON_Parser_1.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\05BinaryConversion.dir\build.make CMakeFiles/05BinaryConversion.dir/09C++_JSON_Parser_1.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\02SiZiLianZhu.dir\build.make CMakeFiles/02SiZiLianZhu.dir/09C++_JSON_Parser_1.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\03SchoolGuide.dir\build.make CMakeFiles/03SchoolGuide.dir/09C++_JSON_Parser_1.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\04StudentInformationManage.dir\build.make CMakeFiles/04StudentInformationManage.dir/09C++_JSON_Parser_1.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\08InsertTest.dir\build.make CMakeFiles/08InsertTest.dir/09C++_JSON_Parser_1.cpp.obj
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\09C++_JSON_Parser_1.dir\build.make CMakeFiles/09C++_JSON_Parser_1.dir/09C++_JSON_Parser_1.cpp.obj
 .PHONY : 09C++_JSON_Parser_1.cpp.obj
 
@@ -469,14 +463,6 @@ depend:
 
 # target to preprocess a source file
 09C++_JSON_Parser_1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\07BinarySortTreeOperation.dir\build.make CMakeFiles/07BinarySortTreeOperation.dir/09C++_JSON_Parser_1.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\06ParenthesisMatching.dir\build.make CMakeFiles/06ParenthesisMatching.dir/09C++_JSON_Parser_1.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\01Test.dir\build.make CMakeFiles/01Test.dir/09C++_JSON_Parser_1.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\05BinaryConversion.dir\build.make CMakeFiles/05BinaryConversion.dir/09C++_JSON_Parser_1.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\02SiZiLianZhu.dir\build.make CMakeFiles/02SiZiLianZhu.dir/09C++_JSON_Parser_1.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\03SchoolGuide.dir\build.make CMakeFiles/03SchoolGuide.dir/09C++_JSON_Parser_1.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\04StudentInformationManage.dir\build.make CMakeFiles/04StudentInformationManage.dir/09C++_JSON_Parser_1.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\08InsertTest.dir\build.make CMakeFiles/08InsertTest.dir/09C++_JSON_Parser_1.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\09C++_JSON_Parser_1.dir\build.make CMakeFiles/09C++_JSON_Parser_1.dir/09C++_JSON_Parser_1.cpp.i
 .PHONY : 09C++_JSON_Parser_1.cpp.i
 
@@ -485,16 +471,86 @@ depend:
 
 # target to generate assembly for a file
 09C++_JSON_Parser_1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\07BinarySortTreeOperation.dir\build.make CMakeFiles/07BinarySortTreeOperation.dir/09C++_JSON_Parser_1.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\06ParenthesisMatching.dir\build.make CMakeFiles/06ParenthesisMatching.dir/09C++_JSON_Parser_1.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\01Test.dir\build.make CMakeFiles/01Test.dir/09C++_JSON_Parser_1.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\05BinaryConversion.dir\build.make CMakeFiles/05BinaryConversion.dir/09C++_JSON_Parser_1.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\02SiZiLianZhu.dir\build.make CMakeFiles/02SiZiLianZhu.dir/09C++_JSON_Parser_1.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\03SchoolGuide.dir\build.make CMakeFiles/03SchoolGuide.dir/09C++_JSON_Parser_1.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\04StudentInformationManage.dir\build.make CMakeFiles/04StudentInformationManage.dir/09C++_JSON_Parser_1.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\08InsertTest.dir\build.make CMakeFiles/08InsertTest.dir/09C++_JSON_Parser_1.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\09C++_JSON_Parser_1.dir\build.make CMakeFiles/09C++_JSON_Parser_1.dir/09C++_JSON_Parser_1.cpp.s
 .PHONY : 09C++_JSON_Parser_1.cpp.s
+
+10Inserting-a-node-at-beginning.obj: 10Inserting-a-node-at-beginning.c.obj
+.PHONY : 10Inserting-a-node-at-beginning.obj
+
+# target to build an object file
+10Inserting-a-node-at-beginning.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\10Inserting-a-node-at-beginning.dir\build.make CMakeFiles/10Inserting-a-node-at-beginning.dir/10Inserting-a-node-at-beginning.c.obj
+.PHONY : 10Inserting-a-node-at-beginning.c.obj
+
+10Inserting-a-node-at-beginning.i: 10Inserting-a-node-at-beginning.c.i
+.PHONY : 10Inserting-a-node-at-beginning.i
+
+# target to preprocess a source file
+10Inserting-a-node-at-beginning.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\10Inserting-a-node-at-beginning.dir\build.make CMakeFiles/10Inserting-a-node-at-beginning.dir/10Inserting-a-node-at-beginning.c.i
+.PHONY : 10Inserting-a-node-at-beginning.c.i
+
+10Inserting-a-node-at-beginning.s: 10Inserting-a-node-at-beginning.c.s
+.PHONY : 10Inserting-a-node-at-beginning.s
+
+# target to generate assembly for a file
+10Inserting-a-node-at-beginning.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\10Inserting-a-node-at-beginning.dir\build.make CMakeFiles/10Inserting-a-node-at-beginning.dir/10Inserting-a-node-at-beginning.c.s
+.PHONY : 10Inserting-a-node-at-beginning.c.s
+
+11Insert-a-node-at-any-given-position.obj: 11Insert-a-node-at-any-given-position.c.obj
+.PHONY : 11Insert-a-node-at-any-given-position.obj
+
+# target to build an object file
+11Insert-a-node-at-any-given-position.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\07BinarySortTreeOperation.dir\build.make CMakeFiles/07BinarySortTreeOperation.dir/11Insert-a-node-at-any-given-position.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\06ParenthesisMatching.dir\build.make CMakeFiles/06ParenthesisMatching.dir/11Insert-a-node-at-any-given-position.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\01Test.dir\build.make CMakeFiles/01Test.dir/11Insert-a-node-at-any-given-position.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\05BinaryConversion.dir\build.make CMakeFiles/05BinaryConversion.dir/11Insert-a-node-at-any-given-position.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\02SiZiLianZhu.dir\build.make CMakeFiles/02SiZiLianZhu.dir/11Insert-a-node-at-any-given-position.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\03SchoolGuide.dir\build.make CMakeFiles/03SchoolGuide.dir/11Insert-a-node-at-any-given-position.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\04StudentInformationManage.dir\build.make CMakeFiles/04StudentInformationManage.dir/11Insert-a-node-at-any-given-position.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\08InsertTest.dir\build.make CMakeFiles/08InsertTest.dir/11Insert-a-node-at-any-given-position.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\09C++_JSON_Parser_1.dir\build.make CMakeFiles/09C++_JSON_Parser_1.dir/11Insert-a-node-at-any-given-position.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\10Inserting-a-node-at-beginning.dir\build.make CMakeFiles/10Inserting-a-node-at-beginning.dir/11Insert-a-node-at-any-given-position.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11Insert-a-node-at-any-given-position.dir\build.make CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.c.obj
+.PHONY : 11Insert-a-node-at-any-given-position.c.obj
+
+11Insert-a-node-at-any-given-position.i: 11Insert-a-node-at-any-given-position.c.i
+.PHONY : 11Insert-a-node-at-any-given-position.i
+
+# target to preprocess a source file
+11Insert-a-node-at-any-given-position.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\07BinarySortTreeOperation.dir\build.make CMakeFiles/07BinarySortTreeOperation.dir/11Insert-a-node-at-any-given-position.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\06ParenthesisMatching.dir\build.make CMakeFiles/06ParenthesisMatching.dir/11Insert-a-node-at-any-given-position.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\01Test.dir\build.make CMakeFiles/01Test.dir/11Insert-a-node-at-any-given-position.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\05BinaryConversion.dir\build.make CMakeFiles/05BinaryConversion.dir/11Insert-a-node-at-any-given-position.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\02SiZiLianZhu.dir\build.make CMakeFiles/02SiZiLianZhu.dir/11Insert-a-node-at-any-given-position.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\03SchoolGuide.dir\build.make CMakeFiles/03SchoolGuide.dir/11Insert-a-node-at-any-given-position.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\04StudentInformationManage.dir\build.make CMakeFiles/04StudentInformationManage.dir/11Insert-a-node-at-any-given-position.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\08InsertTest.dir\build.make CMakeFiles/08InsertTest.dir/11Insert-a-node-at-any-given-position.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\09C++_JSON_Parser_1.dir\build.make CMakeFiles/09C++_JSON_Parser_1.dir/11Insert-a-node-at-any-given-position.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\10Inserting-a-node-at-beginning.dir\build.make CMakeFiles/10Inserting-a-node-at-beginning.dir/11Insert-a-node-at-any-given-position.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11Insert-a-node-at-any-given-position.dir\build.make CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.c.i
+.PHONY : 11Insert-a-node-at-any-given-position.c.i
+
+11Insert-a-node-at-any-given-position.s: 11Insert-a-node-at-any-given-position.c.s
+.PHONY : 11Insert-a-node-at-any-given-position.s
+
+# target to generate assembly for a file
+11Insert-a-node-at-any-given-position.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\07BinarySortTreeOperation.dir\build.make CMakeFiles/07BinarySortTreeOperation.dir/11Insert-a-node-at-any-given-position.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\06ParenthesisMatching.dir\build.make CMakeFiles/06ParenthesisMatching.dir/11Insert-a-node-at-any-given-position.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\01Test.dir\build.make CMakeFiles/01Test.dir/11Insert-a-node-at-any-given-position.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\05BinaryConversion.dir\build.make CMakeFiles/05BinaryConversion.dir/11Insert-a-node-at-any-given-position.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\02SiZiLianZhu.dir\build.make CMakeFiles/02SiZiLianZhu.dir/11Insert-a-node-at-any-given-position.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\03SchoolGuide.dir\build.make CMakeFiles/03SchoolGuide.dir/11Insert-a-node-at-any-given-position.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\04StudentInformationManage.dir\build.make CMakeFiles/04StudentInformationManage.dir/11Insert-a-node-at-any-given-position.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\08InsertTest.dir\build.make CMakeFiles/08InsertTest.dir/11Insert-a-node-at-any-given-position.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\09C++_JSON_Parser_1.dir\build.make CMakeFiles/09C++_JSON_Parser_1.dir/11Insert-a-node-at-any-given-position.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\10Inserting-a-node-at-beginning.dir\build.make CMakeFiles/10Inserting-a-node-at-beginning.dir/11Insert-a-node-at-any-given-position.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11Insert-a-node-at-any-given-position.dir\build.make CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.c.s
+.PHONY : 11Insert-a-node-at-any-given-position.c.s
 
 # Help Target
 help:
@@ -513,6 +569,8 @@ help:
 	@echo ... 07BinarySortTreeOperation
 	@echo ... 08InsertTest
 	@echo ... 09C++_JSON_Parser_1
+	@echo ... 10Inserting-a-node-at-beginning
+	@echo ... 11Insert-a-node-at-any-given-position
 	@echo ... 01Test.obj
 	@echo ... 01Test.i
 	@echo ... 01Test.s
@@ -540,6 +598,12 @@ help:
 	@echo ... 09C++_JSON_Parser_1.obj
 	@echo ... 09C++_JSON_Parser_1.i
 	@echo ... 09C++_JSON_Parser_1.s
+	@echo ... 10Inserting-a-node-at-beginning.obj
+	@echo ... 10Inserting-a-node-at-beginning.i
+	@echo ... 10Inserting-a-node-at-beginning.s
+	@echo ... 11Insert-a-node-at-any-given-position.obj
+	@echo ... 11Insert-a-node-at-any-given-position.i
+	@echo ... 11Insert-a-node-at-any-given-position.s
 .PHONY : help
 
 

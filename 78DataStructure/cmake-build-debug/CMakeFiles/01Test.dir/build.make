@@ -78,49 +78,34 @@ CMakeFiles/01Test.dir/01Test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/01Test.dir/01Test.cpp.s"
 	D:\CodeEnvironment\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Code\C&C++\78DataStructure\01Test.cpp" -o CMakeFiles\01Test.dir\01Test.cpp.s
 
-CMakeFiles/01Test.dir/08InsertTest.c.obj: CMakeFiles/01Test.dir/flags.make
-CMakeFiles/01Test.dir/08InsertTest.c.obj: ../08InsertTest.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Code\C&C++\78DataStructure\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/01Test.dir/08InsertTest.c.obj"
-	D:\CodeEnvironment\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\01Test.dir\08InsertTest.c.obj -c "D:\Code\C&C++\78DataStructure\08InsertTest.c"
+CMakeFiles/01Test.dir/11Insert-a-node-at-any-given-position.c.obj: CMakeFiles/01Test.dir/flags.make
+CMakeFiles/01Test.dir/11Insert-a-node-at-any-given-position.c.obj: ../11Insert-a-node-at-any-given-position.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Code\C&C++\78DataStructure\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/01Test.dir/11Insert-a-node-at-any-given-position.c.obj"
+	D:\CodeEnvironment\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\01Test.dir\11Insert-a-node-at-any-given-position.c.obj -c "D:\Code\C&C++\78DataStructure\11Insert-a-node-at-any-given-position.c"
 
-CMakeFiles/01Test.dir/08InsertTest.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/01Test.dir/08InsertTest.c.i"
-	D:\CodeEnvironment\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\Code\C&C++\78DataStructure\08InsertTest.c" > CMakeFiles\01Test.dir\08InsertTest.c.i
+CMakeFiles/01Test.dir/11Insert-a-node-at-any-given-position.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/01Test.dir/11Insert-a-node-at-any-given-position.c.i"
+	D:\CodeEnvironment\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\Code\C&C++\78DataStructure\11Insert-a-node-at-any-given-position.c" > CMakeFiles\01Test.dir\11Insert-a-node-at-any-given-position.c.i
 
-CMakeFiles/01Test.dir/08InsertTest.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/01Test.dir/08InsertTest.c.s"
-	D:\CodeEnvironment\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\Code\C&C++\78DataStructure\08InsertTest.c" -o CMakeFiles\01Test.dir\08InsertTest.c.s
-
-CMakeFiles/01Test.dir/09C++_JSON_Parser_1.cpp.obj: CMakeFiles/01Test.dir/flags.make
-CMakeFiles/01Test.dir/09C++_JSON_Parser_1.cpp.obj: ../09C++_JSON_Parser_1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Code\C&C++\78DataStructure\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/01Test.dir/09C++_JSON_Parser_1.cpp.obj"
-	D:\CodeEnvironment\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\01Test.dir\09C++_JSON_Parser_1.cpp.obj -c "D:\Code\C&C++\78DataStructure\09C++_JSON_Parser_1.cpp"
-
-CMakeFiles/01Test.dir/09C++_JSON_Parser_1.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/01Test.dir/09C++_JSON_Parser_1.cpp.i"
-	D:\CodeEnvironment\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Code\C&C++\78DataStructure\09C++_JSON_Parser_1.cpp" > CMakeFiles\01Test.dir\09C++_JSON_Parser_1.cpp.i
-
-CMakeFiles/01Test.dir/09C++_JSON_Parser_1.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/01Test.dir/09C++_JSON_Parser_1.cpp.s"
-	D:\CodeEnvironment\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Code\C&C++\78DataStructure\09C++_JSON_Parser_1.cpp" -o CMakeFiles\01Test.dir\09C++_JSON_Parser_1.cpp.s
+CMakeFiles/01Test.dir/11Insert-a-node-at-any-given-position.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/01Test.dir/11Insert-a-node-at-any-given-position.c.s"
+	D:\CodeEnvironment\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\Code\C&C++\78DataStructure\11Insert-a-node-at-any-given-position.c" -o CMakeFiles\01Test.dir\11Insert-a-node-at-any-given-position.c.s
 
 # Object files for target 01Test
 01Test_OBJECTS = \
 "CMakeFiles/01Test.dir/01Test.cpp.obj" \
-"CMakeFiles/01Test.dir/08InsertTest.c.obj" \
-"CMakeFiles/01Test.dir/09C++_JSON_Parser_1.cpp.obj"
+"CMakeFiles/01Test.dir/11Insert-a-node-at-any-given-position.c.obj"
 
 # External object files for target 01Test
 01Test_EXTERNAL_OBJECTS =
 
 01Test.exe: CMakeFiles/01Test.dir/01Test.cpp.obj
-01Test.exe: CMakeFiles/01Test.dir/08InsertTest.c.obj
-01Test.exe: CMakeFiles/01Test.dir/09C++_JSON_Parser_1.cpp.obj
+01Test.exe: CMakeFiles/01Test.dir/11Insert-a-node-at-any-given-position.c.obj
 01Test.exe: CMakeFiles/01Test.dir/build.make
 01Test.exe: CMakeFiles/01Test.dir/linklibs.rsp
 01Test.exe: CMakeFiles/01Test.dir/objects1.rsp
 01Test.exe: CMakeFiles/01Test.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Code\C&C++\78DataStructure\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable 01Test.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Code\C&C++\78DataStructure\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable 01Test.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\01Test.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

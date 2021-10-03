@@ -3,8 +3,7 @@ file(REMOVE_RECURSE
   "06ParenthesisMatching.exe.manifest"
   "06ParenthesisMatching.pdb"
   "CMakeFiles/06ParenthesisMatching.dir/06ParenthesisMatching.cpp.obj"
-  "CMakeFiles/06ParenthesisMatching.dir/08InsertTest.c.obj"
-  "CMakeFiles/06ParenthesisMatching.dir/09C++_JSON_Parser_1.cpp.obj"
+  "CMakeFiles/06ParenthesisMatching.dir/11Insert-a-node-at-any-given-position.c.obj"
   "lib06ParenthesisMatching.dll.a"
 )
 
