@@ -498,59 +498,29 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\10Inserting-a-node-at-beginning.dir\build.make CMakeFiles/10Inserting-a-node-at-beginning.dir/10Inserting-a-node-at-beginning.c.s
 .PHONY : 10Inserting-a-node-at-beginning.c.s
 
-11Insert-a-node-at-any-given-position.obj: 11Insert-a-node-at-any-given-position.c.obj
+11Insert-a-node-at-any-given-position.obj: 11Insert-a-node-at-any-given-position.cpp.obj
 .PHONY : 11Insert-a-node-at-any-given-position.obj
 
 # target to build an object file
-11Insert-a-node-at-any-given-position.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\07BinarySortTreeOperation.dir\build.make CMakeFiles/07BinarySortTreeOperation.dir/11Insert-a-node-at-any-given-position.c.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\06ParenthesisMatching.dir\build.make CMakeFiles/06ParenthesisMatching.dir/11Insert-a-node-at-any-given-position.c.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\01Test.dir\build.make CMakeFiles/01Test.dir/11Insert-a-node-at-any-given-position.c.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\05BinaryConversion.dir\build.make CMakeFiles/05BinaryConversion.dir/11Insert-a-node-at-any-given-position.c.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\02SiZiLianZhu.dir\build.make CMakeFiles/02SiZiLianZhu.dir/11Insert-a-node-at-any-given-position.c.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\03SchoolGuide.dir\build.make CMakeFiles/03SchoolGuide.dir/11Insert-a-node-at-any-given-position.c.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\04StudentInformationManage.dir\build.make CMakeFiles/04StudentInformationManage.dir/11Insert-a-node-at-any-given-position.c.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\08InsertTest.dir\build.make CMakeFiles/08InsertTest.dir/11Insert-a-node-at-any-given-position.c.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\09C++_JSON_Parser_1.dir\build.make CMakeFiles/09C++_JSON_Parser_1.dir/11Insert-a-node-at-any-given-position.c.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\10Inserting-a-node-at-beginning.dir\build.make CMakeFiles/10Inserting-a-node-at-beginning.dir/11Insert-a-node-at-any-given-position.c.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\11Insert-a-node-at-any-given-position.dir\build.make CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.c.obj
-.PHONY : 11Insert-a-node-at-any-given-position.c.obj
+11Insert-a-node-at-any-given-position.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11Insert-a-node-at-any-given-position.dir\build.make CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.cpp.obj
+.PHONY : 11Insert-a-node-at-any-given-position.cpp.obj
 
-11Insert-a-node-at-any-given-position.i: 11Insert-a-node-at-any-given-position.c.i
+11Insert-a-node-at-any-given-position.i: 11Insert-a-node-at-any-given-position.cpp.i
 .PHONY : 11Insert-a-node-at-any-given-position.i
 
 # target to preprocess a source file
-11Insert-a-node-at-any-given-position.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\07BinarySortTreeOperation.dir\build.make CMakeFiles/07BinarySortTreeOperation.dir/11Insert-a-node-at-any-given-position.c.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\06ParenthesisMatching.dir\build.make CMakeFiles/06ParenthesisMatching.dir/11Insert-a-node-at-any-given-position.c.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\01Test.dir\build.make CMakeFiles/01Test.dir/11Insert-a-node-at-any-given-position.c.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\05BinaryConversion.dir\build.make CMakeFiles/05BinaryConversion.dir/11Insert-a-node-at-any-given-position.c.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\02SiZiLianZhu.dir\build.make CMakeFiles/02SiZiLianZhu.dir/11Insert-a-node-at-any-given-position.c.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\03SchoolGuide.dir\build.make CMakeFiles/03SchoolGuide.dir/11Insert-a-node-at-any-given-position.c.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\04StudentInformationManage.dir\build.make CMakeFiles/04StudentInformationManage.dir/11Insert-a-node-at-any-given-position.c.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\08InsertTest.dir\build.make CMakeFiles/08InsertTest.dir/11Insert-a-node-at-any-given-position.c.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\09C++_JSON_Parser_1.dir\build.make CMakeFiles/09C++_JSON_Parser_1.dir/11Insert-a-node-at-any-given-position.c.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\10Inserting-a-node-at-beginning.dir\build.make CMakeFiles/10Inserting-a-node-at-beginning.dir/11Insert-a-node-at-any-given-position.c.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\11Insert-a-node-at-any-given-position.dir\build.make CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.c.i
-.PHONY : 11Insert-a-node-at-any-given-position.c.i
+11Insert-a-node-at-any-given-position.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11Insert-a-node-at-any-given-position.dir\build.make CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.cpp.i
+.PHONY : 11Insert-a-node-at-any-given-position.cpp.i
 
-11Insert-a-node-at-any-given-position.s: 11Insert-a-node-at-any-given-position.c.s
+11Insert-a-node-at-any-given-position.s: 11Insert-a-node-at-any-given-position.cpp.s
 .PHONY : 11Insert-a-node-at-any-given-position.s
 
 # target to generate assembly for a file
-11Insert-a-node-at-any-given-position.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\07BinarySortTreeOperation.dir\build.make CMakeFiles/07BinarySortTreeOperation.dir/11Insert-a-node-at-any-given-position.c.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\06ParenthesisMatching.dir\build.make CMakeFiles/06ParenthesisMatching.dir/11Insert-a-node-at-any-given-position.c.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\01Test.dir\build.make CMakeFiles/01Test.dir/11Insert-a-node-at-any-given-position.c.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\05BinaryConversion.dir\build.make CMakeFiles/05BinaryConversion.dir/11Insert-a-node-at-any-given-position.c.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\02SiZiLianZhu.dir\build.make CMakeFiles/02SiZiLianZhu.dir/11Insert-a-node-at-any-given-position.c.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\03SchoolGuide.dir\build.make CMakeFiles/03SchoolGuide.dir/11Insert-a-node-at-any-given-position.c.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\04StudentInformationManage.dir\build.make CMakeFiles/04StudentInformationManage.dir/11Insert-a-node-at-any-given-position.c.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\08InsertTest.dir\build.make CMakeFiles/08InsertTest.dir/11Insert-a-node-at-any-given-position.c.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\09C++_JSON_Parser_1.dir\build.make CMakeFiles/09C++_JSON_Parser_1.dir/11Insert-a-node-at-any-given-position.c.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\10Inserting-a-node-at-beginning.dir\build.make CMakeFiles/10Inserting-a-node-at-beginning.dir/11Insert-a-node-at-any-given-position.c.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\11Insert-a-node-at-any-given-position.dir\build.make CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.c.s
-.PHONY : 11Insert-a-node-at-any-given-position.c.s
+11Insert-a-node-at-any-given-position.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11Insert-a-node-at-any-given-position.dir\build.make CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.cpp.s
+.PHONY : 11Insert-a-node-at-any-given-position.cpp.s
 
 # Help Target
 help:

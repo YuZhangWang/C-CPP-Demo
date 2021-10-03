@@ -9,7 +9,6 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
   "D:/Code/C&C++/78DataStructure/10Inserting-a-node-at-beginning.c" "D:/Code/C&C++/78DataStructure/cmake-build-debug/CMakeFiles/10Inserting-a-node-at-beginning.dir/10Inserting-a-node-at-beginning.c.obj"
-  "D:/Code/C&C++/78DataStructure/11Insert-a-node-at-any-given-position.c" "D:/Code/C&C++/78DataStructure/cmake-build-debug/CMakeFiles/10Inserting-a-node-at-beginning.dir/11Insert-a-node-at-any-given-position.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

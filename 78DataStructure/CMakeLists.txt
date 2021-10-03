@@ -4,9 +4,9 @@ project(78DataStructure)
 set(CMAKE_CXX_STANDARD 14)
 
 # 遍历项目根目录下所有的 .cpp 文件
-file(GLOB files *.cpp *c)
+file (GLOB files *.cpp *.c)
 foreach (file ${files})
     string(REGEX REPLACE ".+/(.+)\\..*" "\\1" exe ${file})
-    add_executable(${exe} ${file} 11Insert-a-node-at-any-given-position.c)
-    message(\ \ \ \ --\ src/${exe}.cpp\ will\ be\ compiled\ to\ bin/${exe})
+    add_executable (${exe} ${file})
+    message (\ \ \ \ --\ src/${exe}.cpp\ will\ be\ compiled\ to\ bin/${exe})
 endforeach ()

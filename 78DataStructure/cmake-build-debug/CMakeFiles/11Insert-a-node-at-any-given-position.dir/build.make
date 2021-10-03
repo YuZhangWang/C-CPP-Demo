@@ -65,32 +65,32 @@ include CMakeFiles/11Insert-a-node-at-any-given-position.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/11Insert-a-node-at-any-given-position.dir/flags.make
 
-CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.c.obj: CMakeFiles/11Insert-a-node-at-any-given-position.dir/flags.make
-CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.c.obj: ../11Insert-a-node-at-any-given-position.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Code\C&C++\78DataStructure\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.c.obj"
-	D:\CodeEnvironment\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\11Insert-a-node-at-any-given-position.dir\11Insert-a-node-at-any-given-position.c.obj -c "D:\Code\C&C++\78DataStructure\11Insert-a-node-at-any-given-position.c"
+CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.cpp.obj: CMakeFiles/11Insert-a-node-at-any-given-position.dir/flags.make
+CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.cpp.obj: ../11Insert-a-node-at-any-given-position.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Code\C&C++\78DataStructure\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.cpp.obj"
+	D:\CodeEnvironment\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\11Insert-a-node-at-any-given-position.dir\11Insert-a-node-at-any-given-position.cpp.obj -c "D:\Code\C&C++\78DataStructure\11Insert-a-node-at-any-given-position.cpp"
 
-CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.c.i"
-	D:\CodeEnvironment\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\Code\C&C++\78DataStructure\11Insert-a-node-at-any-given-position.c" > CMakeFiles\11Insert-a-node-at-any-given-position.dir\11Insert-a-node-at-any-given-position.c.i
+CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.cpp.i"
+	D:\CodeEnvironment\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Code\C&C++\78DataStructure\11Insert-a-node-at-any-given-position.cpp" > CMakeFiles\11Insert-a-node-at-any-given-position.dir\11Insert-a-node-at-any-given-position.cpp.i
 
-CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.c.s"
-	D:\CodeEnvironment\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\Code\C&C++\78DataStructure\11Insert-a-node-at-any-given-position.c" -o CMakeFiles\11Insert-a-node-at-any-given-position.dir\11Insert-a-node-at-any-given-position.c.s
+CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.cpp.s"
+	D:\CodeEnvironment\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Code\C&C++\78DataStructure\11Insert-a-node-at-any-given-position.cpp" -o CMakeFiles\11Insert-a-node-at-any-given-position.dir\11Insert-a-node-at-any-given-position.cpp.s
 
 # Object files for target 11Insert-a-node-at-any-given-position
 11Insert__a__node__at__any__given__position_OBJECTS = \
-"CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.c.obj"
+"CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.cpp.obj"
 
 # External object files for target 11Insert-a-node-at-any-given-position
 11Insert__a__node__at__any__given__position_EXTERNAL_OBJECTS =
 
-11Insert-a-node-at-any-given-position.exe: CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.c.obj
+11Insert-a-node-at-any-given-position.exe: CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.cpp.obj
 11Insert-a-node-at-any-given-position.exe: CMakeFiles/11Insert-a-node-at-any-given-position.dir/build.make
 11Insert-a-node-at-any-given-position.exe: CMakeFiles/11Insert-a-node-at-any-given-position.dir/linklibs.rsp
 11Insert-a-node-at-any-given-position.exe: CMakeFiles/11Insert-a-node-at-any-given-position.dir/objects1.rsp
 11Insert-a-node-at-any-given-position.exe: CMakeFiles/11Insert-a-node-at-any-given-position.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Code\C&C++\78DataStructure\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable 11Insert-a-node-at-any-given-position.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Code\C&C++\78DataStructure\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 11Insert-a-node-at-any-given-position.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\11Insert-a-node-at-any-given-position.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

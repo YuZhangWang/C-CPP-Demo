@@ -259,6 +259,12 @@ JZ_offer_BINARY_DIR:STATIC=D:/Code/C&C++/78DataStructure/cmake-build-debug
 //Value Computed by CMake
 JZ_offer_SOURCE_DIR:STATIC=D:/Code/C&C++/78DataStructure
 
+//Value Computed by CMake
+my-leetcode-way_BINARY_DIR:STATIC=D:/Code/C&C++/78DataStructure/cmake-build-debug
+
+//Value Computed by CMake
+my-leetcode-way_SOURCE_DIR:STATIC=D:/Code/C&C++/78DataStructure
+
 
 ########################
 # INTERNAL cache entries

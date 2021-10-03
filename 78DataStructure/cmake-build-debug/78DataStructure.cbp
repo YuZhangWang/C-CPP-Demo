@@ -530,17 +530,7 @@
 		<Unit filename="D:/Code/C&amp;C++/78DataStructure/10Inserting-a-node-at-beginning.c">
 			<Option target="10Inserting-a-node-at-beginning"/>
 		</Unit>
-		<Unit filename="D:/Code/C&amp;C++/78DataStructure/11Insert-a-node-at-any-given-position.c">
-			<Option target="07BinarySortTreeOperation"/>
-			<Option target="06ParenthesisMatching"/>
-			<Option target="01Test"/>
-			<Option target="05BinaryConversion"/>
-			<Option target="02SiZiLianZhu"/>
-			<Option target="03SchoolGuide"/>
-			<Option target="04StudentInformationManage"/>
-			<Option target="08InsertTest"/>
-			<Option target="09C++_JSON_Parser_1"/>
-			<Option target="10Inserting-a-node-at-beginning"/>
+		<Unit filename="D:/Code/C&amp;C++/78DataStructure/11Insert-a-node-at-any-given-position.cpp">
 			<Option target="11Insert-a-node-at-any-given-position"/>
 		</Unit>
 		<Unit filename="D:/Code/C&amp;C++/78DataStructure/CMakeLists.txt">

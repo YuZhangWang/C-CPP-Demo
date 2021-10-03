@@ -3,11 +3,10 @@ file(REMOVE_RECURSE
   "02SiZiLianZhu.exe.manifest"
   "02SiZiLianZhu.pdb"
   "CMakeFiles/02SiZiLianZhu.dir/02SiZiLianZhu.cpp.obj"
-  "CMakeFiles/02SiZiLianZhu.dir/11Insert-a-node-at-any-given-position.c.obj"
   "lib02SiZiLianZhu.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang C CXX)
+foreach(lang CXX)
   include(CMakeFiles/02SiZiLianZhu.dir/cmake_clean_${lang}.cmake OPTIONAL)
 endforeach()

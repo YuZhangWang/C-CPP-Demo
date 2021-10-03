@@ -3,11 +3,10 @@ file(REMOVE_RECURSE
   "09C++_JSON_Parser_1.exe.manifest"
   "09C++_JSON_Parser_1.pdb"
   "CMakeFiles/09C++_JSON_Parser_1.dir/09C++_JSON_Parser_1.cpp.obj"
-  "CMakeFiles/09C++_JSON_Parser_1.dir/11Insert-a-node-at-any-given-position.c.obj"
   "lib09C++_JSON_Parser_1.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang C CXX)
+foreach(lang CXX)
   include(CMakeFiles/09C++_JSON_Parser_1.dir/cmake_clean_${lang}.cmake OPTIONAL)
 endforeach()
