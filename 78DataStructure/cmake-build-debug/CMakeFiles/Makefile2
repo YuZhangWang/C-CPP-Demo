@@ -73,6 +73,7 @@ all: CMakeFiles/08InsertTest.dir/all
 all: CMakeFiles/09C++_JSON_Parser_1.dir/all
 all: CMakeFiles/10Inserting-a-node-at-beginning.dir/all
 all: CMakeFiles/11Insert-a-node-at-any-given-position.dir/all
+all: CMakeFiles/12Test.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -91,6 +92,7 @@ clean: CMakeFiles/08InsertTest.dir/clean
 clean: CMakeFiles/09C++_JSON_Parser_1.dir/clean
 clean: CMakeFiles/10Inserting-a-node-at-beginning.dir/clean
 clean: CMakeFiles/11Insert-a-node-at-any-given-position.dir/clean
+clean: CMakeFiles/12Test.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -378,6 +380,32 @@ CMakeFiles/11Insert-a-node-at-any-given-position.dir/rule: cmake_check_build_sys
 CMakeFiles/11Insert-a-node-at-any-given-position.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\11Insert-a-node-at-any-given-position.dir\build.make CMakeFiles/11Insert-a-node-at-any-given-position.dir/clean
 .PHONY : CMakeFiles/11Insert-a-node-at-any-given-position.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/12Test.dir
+
+# All Build rule for target.
+CMakeFiles/12Test.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12Test.dir\build.make CMakeFiles/12Test.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12Test.dir\build.make CMakeFiles/12Test.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\Code\C&C++\78DataStructure\cmake-build-debug\CMakeFiles" --progress-num=23,24 "Built target 12Test"
+.PHONY : CMakeFiles/12Test.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/12Test.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Code\C&C++\78DataStructure\cmake-build-debug\CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/12Test.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Code\C&C++\78DataStructure\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/12Test.dir/rule
+
+# Convenience name for target.
+12Test: CMakeFiles/12Test.dir/rule
+.PHONY : 12Test
+
+# clean rule for target.
+CMakeFiles/12Test.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12Test.dir\build.make CMakeFiles/12Test.dir/clean
+.PHONY : CMakeFiles/12Test.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

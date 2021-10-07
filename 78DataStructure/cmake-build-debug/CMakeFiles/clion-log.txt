@@ -10,6 +10,7 @@
     -- src/09C++_JSON_Parser_1.cpp will be compiled to bin/09C++_JSON_Parser_1
     -- src/10Inserting-a-node-at-beginning.cpp will be compiled to bin/10Inserting-a-node-at-beginning
     -- src/11Insert-a-node-at-any-given-position.cpp will be compiled to bin/11Insert-a-node-at-any-given-position
+    -- src/12Test.cpp will be compiled to bin/12Test
 -- Configuring done
 -- Generating done
 -- Build files have been written to: D:/Code/C&C++/78DataStructure/cmake-build-debug

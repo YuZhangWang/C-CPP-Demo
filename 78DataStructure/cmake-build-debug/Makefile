@@ -258,6 +258,19 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\11Insert-a-node-at-any-given-position.dir\build.make CMakeFiles/11Insert-a-node-at-any-given-position.dir/build
 .PHONY : 11Insert-a-node-at-any-given-position/fast
 
+#=============================================================================
+# Target rules for targets named 12Test
+
+# Build rule for target.
+12Test: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 12Test
+.PHONY : 12Test
+
+# fast build rule for target.
+12Test/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12Test.dir\build.make CMakeFiles/12Test.dir/build
+.PHONY : 12Test/fast
+
 01Test.obj: 01Test.cpp.obj
 .PHONY : 01Test.obj
 
@@ -522,6 +535,30 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\11Insert-a-node-at-any-given-position.dir\build.make CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.cpp.s
 .PHONY : 11Insert-a-node-at-any-given-position.cpp.s
 
+12Test.obj: 12Test.cpp.obj
+.PHONY : 12Test.obj
+
+# target to build an object file
+12Test.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12Test.dir\build.make CMakeFiles/12Test.dir/12Test.cpp.obj
+.PHONY : 12Test.cpp.obj
+
+12Test.i: 12Test.cpp.i
+.PHONY : 12Test.i
+
+# target to preprocess a source file
+12Test.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12Test.dir\build.make CMakeFiles/12Test.dir/12Test.cpp.i
+.PHONY : 12Test.cpp.i
+
+12Test.s: 12Test.cpp.s
+.PHONY : 12Test.s
+
+# target to generate assembly for a file
+12Test.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\12Test.dir\build.make CMakeFiles/12Test.dir/12Test.cpp.s
+.PHONY : 12Test.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -541,6 +578,7 @@ help:
 	@echo ... 09C++_JSON_Parser_1
 	@echo ... 10Inserting-a-node-at-beginning
 	@echo ... 11Insert-a-node-at-any-given-position
+	@echo ... 12Test
 	@echo ... 01Test.obj
 	@echo ... 01Test.i
 	@echo ... 01Test.s
@@ -574,6 +612,9 @@ help:
 	@echo ... 11Insert-a-node-at-any-given-position.obj
 	@echo ... 11Insert-a-node-at-any-given-position.i
 	@echo ... 11Insert-a-node-at-any-given-position.s
+	@echo ... 12Test.obj
+	@echo ... 12Test.i
+	@echo ... 12Test.s
 .PHONY : help
 
 
