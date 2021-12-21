@@ -1,3 +1,3 @@
-"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\09C++_JSON_Parser_1.dir/objects.a
-D:\CodeEnvironment\MinGW\bin\ar.exe cr CMakeFiles\09C++_JSON_Parser_1.dir/objects.a @CMakeFiles\09C++_JSON_Parser_1.dir\objects1.rsp
+"C:\Program Files\JetBrains\CLion 2021.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\09C++_JSON_Parser_1.dir/objects.a
+D:\CodeEnvironment\MinGW\bin\ar.exe qc CMakeFiles\09C++_JSON_Parser_1.dir/objects.a @CMakeFiles\09C++_JSON_Parser_1.dir\objects1.rsp
 D:\CodeEnvironment\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\09C++_JSON_Parser_1.dir/objects.a -Wl,--no-whole-archive -o 09C++_JSON_Parser_1.exe -Wl,--out-implib,lib09C++_JSON_Parser_1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\09C++_JSON_Parser_1.dir\linklibs.rsp

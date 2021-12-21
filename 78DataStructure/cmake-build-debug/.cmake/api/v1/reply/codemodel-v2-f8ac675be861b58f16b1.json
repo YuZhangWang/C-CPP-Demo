@@ -1,0 +1,159 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "78DataStructure",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01Test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01Test-Debug-885f8fef47cbd3010408.json",
+					"name" : "01Test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02SiZiLianZhu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02SiZiLianZhu-Debug-047af22144cae5f64416.json",
+					"name" : "02SiZiLianZhu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03SchoolGuide::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03SchoolGuide-Debug-b1fdd95c9ffec9b11ff5.json",
+					"name" : "03SchoolGuide",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04StudentInformationManage::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04StudentInformationManage-Debug-6c1df064ba7b3618af11.json",
+					"name" : "04StudentInformationManage",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05BinaryConversion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05BinaryConversion-Debug-79d4afc8c6a71f6a530e.json",
+					"name" : "05BinaryConversion",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06ParenthesisMatching::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06ParenthesisMatching-Debug-563d4b667fb8e900a747.json",
+					"name" : "06ParenthesisMatching",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07BinarySortTreeOperation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07BinarySortTreeOperation-Debug-d0870f6163bf26acce09.json",
+					"name" : "07BinarySortTreeOperation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "08InsertTest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-08InsertTest-Debug-f518e9d10820b38b14e6.json",
+					"name" : "08InsertTest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "09C++_JSON_Parser_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-09C++_JSON_Parser_1-Debug-344cad7689016f0e5626.json",
+					"name" : "09C++_JSON_Parser_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "10Inserting-a-node-at-beginning::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-10Inserting-a-node-at-beginning-Debug-78a757e10b3f3028c50b.json",
+					"name" : "10Inserting-a-node-at-beginning",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "11Insert-a-node-at-any-given-position::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-11Insert-a-node-at-any-given-position-Debug-fddc50b016030df3e3be.json",
+					"name" : "11Insert-a-node-at-any-given-position",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "12Test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-12Test-Debug-f7b5b0a016e6a1016ec1.json",
+					"name" : "12Test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Code/C&C++/78DataStructure/cmake-build-debug",
+		"source" : "D:/Code/C&C++/78DataStructure"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
