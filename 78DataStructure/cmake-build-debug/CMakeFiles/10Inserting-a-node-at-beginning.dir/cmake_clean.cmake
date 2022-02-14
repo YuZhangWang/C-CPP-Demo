@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "10Inserting-a-node-at-beginning.exe.manifest"
   "10Inserting-a-node-at-beginning.pdb"
   "CMakeFiles/10Inserting-a-node-at-beginning.dir/10Inserting-a-node-at-beginning.c.obj"
+  "CMakeFiles/10Inserting-a-node-at-beginning.dir/10Inserting-a-node-at-beginning.c.obj.d"
   "lib10Inserting-a-node-at-beginning.dll.a"
 )
 

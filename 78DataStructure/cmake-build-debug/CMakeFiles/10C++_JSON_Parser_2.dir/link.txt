@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\10C++_JSON_Parser_2.dir/objects.a
-D:\CodeEnvironment\MinGW\bin\ar.exe cr CMakeFiles\10C++_JSON_Parser_2.dir/objects.a @CMakeFiles\10C++_JSON_Parser_2.dir\objects1.rsp
-D:\CodeEnvironment\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\10C++_JSON_Parser_2.dir/objects.a -Wl,--no-whole-archive -o 10C++_JSON_Parser_2.exe -Wl,--out-implib,lib10C++_JSON_Parser_2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\10C++_JSON_Parser_2.dir\linklibs.rsp

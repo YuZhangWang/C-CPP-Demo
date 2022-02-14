@@ -4,20 +4,11 @@ set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
 
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "CXX"
-  )
-# The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/Code/C&C++/78DataStructure/11Insert-a-node-at-any-given-position.cpp" "D:/Code/C&C++/78DataStructure/cmake-build-debug/CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.cpp.obj"
-  )
-set(CMAKE_CXX_COMPILER_ID "GNU")
-
-# The include file search paths:
-set(CMAKE_CXX_TARGET_INCLUDE_PATH
   )
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "D:/Code/C&C++/78DataStructure/11Insert-a-node-at-any-given-position.cpp" "CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.cpp.obj" "gcc" "CMakeFiles/11Insert-a-node-at-any-given-position.dir/11Insert-a-node-at-any-given-position.cpp.obj.d"
   )
 
 # Targets to which this target links.

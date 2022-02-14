@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "08InsertTest.exe.manifest"
   "08InsertTest.pdb"
   "CMakeFiles/08InsertTest.dir/08InsertTest.c.obj"
+  "CMakeFiles/08InsertTest.dir/08InsertTest.c.obj.d"
   "lib08InsertTest.dll.a"
 )
 

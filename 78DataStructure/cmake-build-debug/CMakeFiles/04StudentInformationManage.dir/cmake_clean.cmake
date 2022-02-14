@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "04StudentInformationManage.exe.manifest"
   "04StudentInformationManage.pdb"
   "CMakeFiles/04StudentInformationManage.dir/04StudentInformationManage.cpp.obj"
+  "CMakeFiles/04StudentInformationManage.dir/04StudentInformationManage.cpp.obj.d"
   "lib04StudentInformationManage.dll.a"
 )
 

@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "05BinaryConversion.exe.manifest"
   "05BinaryConversion.pdb"
   "CMakeFiles/05BinaryConversion.dir/05BinaryConversion.cpp.obj"
+  "CMakeFiles/05BinaryConversion.dir/05BinaryConversion.cpp.obj.d"
   "lib05BinaryConversion.dll.a"
 )
 

@@ -4,20 +4,11 @@ set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
 
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "CXX"
-  )
-# The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/Code/C&C++/78DataStructure/02SiZiLianZhu.cpp" "D:/Code/C&C++/78DataStructure/cmake-build-debug/CMakeFiles/02sizilianzhu.dir/02SiZiLianZhu.cpp.obj"
-  )
-set(CMAKE_CXX_COMPILER_ID "GNU")
-
-# The include file search paths:
-set(CMAKE_CXX_TARGET_INCLUDE_PATH
   )
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "D:/Code/C&C++/78DataStructure/02SiZiLianZhu.cpp" "CMakeFiles/02SiZiLianZhu.dir/02SiZiLianZhu.cpp.obj" "gcc" "CMakeFiles/02SiZiLianZhu.dir/02SiZiLianZhu.cpp.obj.d"
   )
 
 # Targets to which this target links.

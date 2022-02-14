@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "02SiZiLianZhu.exe.manifest"
   "02SiZiLianZhu.pdb"
   "CMakeFiles/02SiZiLianZhu.dir/02SiZiLianZhu.cpp.obj"
+  "CMakeFiles/02SiZiLianZhu.dir/02SiZiLianZhu.cpp.obj.d"
   "lib02SiZiLianZhu.dll.a"
 )
 

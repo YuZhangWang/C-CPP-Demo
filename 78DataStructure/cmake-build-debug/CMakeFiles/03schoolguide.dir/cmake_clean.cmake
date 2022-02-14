@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "03SchoolGuide.exe.manifest"
   "03SchoolGuide.pdb"
   "CMakeFiles/03SchoolGuide.dir/03SchoolGuide.cpp.obj"
+  "CMakeFiles/03SchoolGuide.dir/03SchoolGuide.cpp.obj.d"
   "lib03SchoolGuide.dll.a"
 )
 
