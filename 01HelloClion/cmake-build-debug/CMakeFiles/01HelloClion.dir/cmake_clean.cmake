@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "01HelloClion.exe.manifest"
   "01HelloClion.pdb"
   "CMakeFiles/01HelloClion.dir/main.cpp.obj"
+  "CMakeFiles/01HelloClion.dir/main.cpp.obj.d"
   "lib01HelloClion.dll.a"
 )
 
